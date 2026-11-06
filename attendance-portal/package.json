@@ -1,0 +1,12 @@
+{
+  "name": "attendance-portal",
+  "version": "1.0.0",
+  "description": "Attendance Management Portal - MongoDB Atlas + Vercel serverless API",
+  "private": true,
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "mongodb": "^6.8.0"
+  }
+}
